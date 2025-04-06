@@ -139,6 +139,7 @@ body {
     padding: 30px;
     justify-items: center;
     align-items: start;
+    row-gap: 50px;
   }
 
 }
