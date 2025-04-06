@@ -15,7 +15,7 @@ body {
   grid-template-areas:
   'header header header'
   'nav    main   .'
-  'footer footer footer'
+  'footer footer footer';
   grid-template-columns: 0.3fr  1fr 0.3fr;
   grid-template-rows: 100px 300px 1fr 60px;
 }
