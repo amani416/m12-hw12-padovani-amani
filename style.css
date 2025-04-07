@@ -142,7 +142,6 @@ body {
   .img_card__container {
     grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
     justify-items: center;
-    align-items: start;
     row-gap: 50px;
   }
 
